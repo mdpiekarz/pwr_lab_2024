@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Gra/Gra.iml" filepath="$PROJECT_DIR$/Gra/Gra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab7.iml" filepath="$PROJECT_DIR$/lab7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zad1_Semafory/zad1_Semafory.iml" filepath="$PROJECT_DIR$/zad1_Semafory/zad1_Semafory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zad1_blokady/zad1_blokady.iml" filepath="$PROJECT_DIR$/zad1_blokady/zad1_blokady.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zad1_monitory/zad1_monitory.iml" filepath="$PROJECT_DIR$/zad1_monitory/zad1_monitory.iml" />
+    </modules>
+  </component>
+</project>
